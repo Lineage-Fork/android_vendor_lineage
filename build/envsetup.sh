@@ -962,5 +962,5 @@ function fixup_common_out_dir() {
 }
 
 # Override host metadata to make builds more reproducible and avoid leaking info
-export BUILD_USERNAME=ext
-export BUILD_HOSTNAME=android-buildbot
+export BUILD_USERNAME=hunt3r
+export BUILD_HOSTNAME=android-build
